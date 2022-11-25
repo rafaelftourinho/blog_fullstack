@@ -46,8 +46,8 @@ function ReadMore() {
       ) : (
         <div className="post" key={post.id}>
           <h2>{post.title}</h2>
-          <p>
-            <span>{post.owner}</span>
+          <p className="span-container">
+            <span>{`${post.owner} `}</span>
             <span>{getDate(post.created_at)}</span>
           </p>
           <p className="quebra-linha">{post.body}</p>
