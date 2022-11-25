@@ -1,0 +1,18 @@
+.read-more {
+  font-size: 25px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.quebra-linha {
+  word-wrap: break-word;
+}
+
+.container-btn {
+  display: flex;
+  justify-content: space-between;
+}
