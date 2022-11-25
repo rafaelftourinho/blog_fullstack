@@ -8,6 +8,10 @@
   </a>
 </p>
 
+## Resumo
+
+Projeto de construção de um miniblog fullstack com backend em NodeJs, banco de dados MySQL e frontend com React e Axios para consumir a API criada em arquitetura MSC. 
+
 ## Tópicos 
 
 [Preview](#preview)
